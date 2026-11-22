@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exc\\Desktop\\PR7_Converts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|c:\\users\\exc\\desktop\\pr7_converts\\pr7_converts\\models\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|solutionrelative:pr7_converts\\models\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|c:\\users\\exc\\desktop\\pr7_converts\\pr7_converts\\converters\\rateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|solutionrelative:pr7_converts\\converters\\rateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|c:\\users\\exc\\desktop\\pr7_converts\\pr7_converts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|solutionrelative:pr7_converts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|c:\\users\\exc\\desktop\\pr7_converts\\pr7_converts\\converters\\incomecolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|solutionrelative:pr7_converts\\converters\\incomecolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|c:\\users\\exc\\desktop\\pr7_converts\\pr7_converts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BDD2F3-9328-4B85-9AF0-B9CAAA0DEDF3}|PR7_Converts\\PR7_Converts.csproj|solutionrelative:pr7_converts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 235,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncomeColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\Converters\\IncomeColorConverter.cs",
+              "RelativeDocumentMoniker": "PR7_Converts\\Converters\\IncomeColorConverter.cs",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\Converters\\IncomeColorConverter.cs",
+              "RelativeToolTip": "PR7_Converts\\Converters\\IncomeColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T14:54:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RateConverter.cs",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\Converters\\RateConverter.cs",
+              "RelativeDocumentMoniker": "PR7_Converts\\Converters\\RateConverter.cs",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\Converters\\RateConverter.cs",
+              "RelativeToolTip": "PR7_Converts\\Converters\\RateConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T14:54:05.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\Models\\Deposit.cs",
+              "RelativeDocumentMoniker": "PR7_Converts\\Models\\Deposit.cs",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\Models\\Deposit.cs",
+              "RelativeToolTip": "PR7_Converts\\Models\\Deposit.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T14:47:03.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PR7_Converts\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\MainWindow.xaml",
+              "RelativeToolTip": "PR7_Converts\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-22T14:45:29.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PR7_Converts\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\PR7_Converts\\PR7_Converts\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PR7_Converts\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T14:45:25.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
